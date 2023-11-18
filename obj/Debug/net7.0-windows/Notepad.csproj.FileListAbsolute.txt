@@ -1,0 +1,44 @@
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\bin\Debug\net7.0-windows\Notepad.exe
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\bin\Debug\net7.0-windows\Notepad.deps.json
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\bin\Debug\net7.0-windows\Notepad.runtimeconfig.json
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\bin\Debug\net7.0-windows\Notepad.dll
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\bin\Debug\net7.0-windows\Notepad.pdb
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\Notepad.Form1.resources
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.GenerateResource.cache
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\Notepad.AssemblyInfoInputs.cache
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\Notepad.AssemblyInfo.cs
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.CoreCompileInputs.cache
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\Notepad.dll
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\refint\Notepad.dll
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\Notepad.pdb
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\Notepad.genruntimeconfig.cache
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\ref\Notepad.dll
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\bin\Debug\net7.0-windows\MaterialSkin.dll
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.AssemblyReference.cache
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.CopyComplete
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\bin\Debug\net7.0-windows\System.Management.dll
+C:\BSCS 2-1 CRUZ\OOP\Finals\Notepad\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\bin\Debug\net7.0-windows\Notepad.exe
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\bin\Debug\net7.0-windows\Notepad.deps.json
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\bin\Debug\net7.0-windows\Notepad.runtimeconfig.json
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\bin\Debug\net7.0-windows\Notepad.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\bin\Debug\net7.0-windows\Notepad.pdb
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\bin\Debug\net7.0-windows\Guna.UI2.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\bin\Debug\net7.0-windows\MaterialSkin.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\bin\Debug\net7.0-windows\System.Management.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.AssemblyReference.cache
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\Notepad.Form1.resources
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.GenerateResource.cache
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\Notepad.AssemblyInfoInputs.cache
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\Notepad.AssemblyInfo.cs
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.CoreCompileInputs.cache
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.CopyComplete
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\Notepad.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\refint\Notepad.dll
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\Notepad.pdb
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\Notepad.genruntimeconfig.cache
+D:\User\Jansen\Self Study\2023 - 11 - NOVEMBER\C#\Notepad\obj\Debug\net7.0-windows\ref\Notepad.dll

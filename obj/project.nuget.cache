@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfBa/zFcjl9gousrOUyjIdb2YoMHypbQYJuVOnVxmJku3DszTCQmYt4APZbnUh2r4QjR70MrrLaByNebT1M5cA==",
+  "success": true,
+  "projectFilePath": "D:\\User\\Jansen\\Self Study\\2023 - 11 - NOVEMBER\\C#\\Notepad\\Notepad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
